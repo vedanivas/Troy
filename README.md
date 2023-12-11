@@ -1,7 +1,6 @@
-# Assignment 3.1
+# Troy
 
-- Everything mentioned in the assignment has been implemented.
-- **Bonus** :
+- **Additional** **Features** :
     - King’s Leviathan Axe has also been implemented.
     - Dragon Character has been added, it can fly over walls.
     - Queen's Eagle Arrow has been added.
